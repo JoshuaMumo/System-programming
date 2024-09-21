@@ -76,6 +76,12 @@ namespace Class_project
                 MessageBox.Show("Error: " + ex.Message);
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            System_programming_form form = new System_programming_form();
+            form.Show();
+        }
     }
-    
+
 }

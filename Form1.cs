@@ -12,5 +12,11 @@ namespace Class_project
             Process_management_form form = new Process_management_form();
             form.Show();
         }
+
+        private void Information_management_Click(object sender, EventArgs e)
+        {
+            Information_management form = new Information_management();
+            form.Show();
+        }
     }
 }

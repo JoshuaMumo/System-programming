@@ -32,6 +32,7 @@
             Start_process = new Button();
             listBox1 = new ListBox();
             Kill_process = new Button();
+            button1 = new Button();
             SuspendLayout();
             // 
             // Find_all_processes
@@ -73,11 +74,22 @@
             Kill_process.UseVisualStyleBackColor = true;
             Kill_process.Click += Kill_process_Click;
             // 
+            // button1
+            // 
+            button1.Location = new Point(12, 24);
+            button1.Name = "button1";
+            button1.Size = new Size(112, 34);
+            button1.TabIndex = 4;
+            button1.Text = "<--";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
             // Process_management_form
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1276, 726);
+            Controls.Add(button1);
             Controls.Add(Kill_process);
             Controls.Add(listBox1);
             Controls.Add(Start_process);
@@ -93,5 +105,6 @@
         private Button Start_process;
         private ListBox listBox1;
         private Button Kill_process;
+        private Button button1;
     }
 }

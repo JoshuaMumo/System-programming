@@ -54,6 +54,7 @@
             Information_management.TabIndex = 1;
             Information_management.Text = "Information_management";
             Information_management.UseVisualStyleBackColor = true;
+            Information_management.Click += Information_management_Click;
             // 
             // File_management
             // 
