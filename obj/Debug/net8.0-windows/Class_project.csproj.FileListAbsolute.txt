@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\System_management\Class_project\obj\Debug\net8.0-windows\Class_project.System_programming_form.resources
+C:\Users\user\source\repos\System_management\Class_project\obj\Debug\net8.0-windows\Class_project.Process_management_form.resources
+C:\Users\user\source\repos\System_management\Class_project\obj\Debug\net8.0-windows\Class_project.csproj.GenerateResource.cache
+C:\Users\user\source\repos\System_management\Class_project\obj\Debug\net8.0-windows\Class_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\System_management\Class_project\obj\Debug\net8.0-windows\Class_project.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\System_management\Class_project\obj\Debug\net8.0-windows\Class_project.AssemblyInfo.cs
+C:\Users\user\source\repos\System_management\Class_project\obj\Debug\net8.0-windows\Class_project.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\System_management\Class_project\bin\Debug\net8.0-windows\Class_project.exe
+C:\Users\user\source\repos\System_management\Class_project\bin\Debug\net8.0-windows\Class_project.deps.json
+C:\Users\user\source\repos\System_management\Class_project\bin\Debug\net8.0-windows\Class_project.runtimeconfig.json
+C:\Users\user\source\repos\System_management\Class_project\bin\Debug\net8.0-windows\Class_project.dll
+C:\Users\user\source\repos\System_management\Class_project\bin\Debug\net8.0-windows\Class_project.pdb
+C:\Users\user\source\repos\System_management\Class_project\obj\Debug\net8.0-windows\Class_project.dll
+C:\Users\user\source\repos\System_management\Class_project\obj\Debug\net8.0-windows\refint\Class_project.dll
+C:\Users\user\source\repos\System_management\Class_project\obj\Debug\net8.0-windows\Class_project.pdb
+C:\Users\user\source\repos\System_management\Class_project\obj\Debug\net8.0-windows\Class_project.genruntimeconfig.cache
+C:\Users\user\source\repos\System_management\Class_project\obj\Debug\net8.0-windows\ref\Class_project.dll
